@@ -1,0 +1,137 @@
+/* Styles for the reviews section */
+.reviews-section {
+    margin-top: 20px;
+  }
+  
+  /* Styles for the total reviews heading */
+  .total-reviews {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the reviews list */
+  .reviews-list {
+    margin-bottom: 20px;
+  }
+  
+  /* Styles for each review item */
+  .review-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for review content */
+  .review-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Styles for review header (rating and author) */
+  .review-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Styles for review author */
+  .review-author {
+    margin-left: 10px;
+  }
+  
+  /* Styles for review comment */
+  .review-comment {
+    margin-top: 10px;
+  }
+  
+  /* Styles for the show more button */
+  .show-more-button {
+    text-align: center;
+  }
+  
+  /* Styles for the review form title */
+  .review-form-title {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the review form */
+  .review-form {
+    margin-bottom: 20px;
+  }
+  
+  /* Styles for form group (rating select and comment textarea) */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  /* Styles for submit button */
+  .btn-submit-review {
+    background-color: yellow;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-submit-review:hover,
+  .btn-submit-review:focus {
+    background-color:#0a58ca;
+    color: #fff;
+  }
+  
+  /* Continued CSS styles for the review form */
+
+.form-control {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Styles for the review form submit button */
+  
+  .btn-submit-review {
+    background-color: #9a97a0;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-submit-review:hover,
+  .btn-submit-review:focus {
+    background-color: #0a58ca;
+    color: #fff;
+  }
+  
+  /* Styles for the additional reviews section */
+  
+  .additional-reviews {
+    margin-top: 20px;
+  }
+  
+  /* Styles for the 'Show More Reviews' button */
+  
+  .btn-show-reviews {
+    background-color: #9a97a0;
+    color: #000;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-show-reviews:hover,
+  .btn-show-reviews:focus {
+    background-color: #0a58ca;
+    color: #fff;
+  }
+  
